@@ -1,1 +1,1 @@
-# Basic-Shopping-Cart-using-JSP-Servlet
+# Shopping-Cart-using-JSP-Servlet
